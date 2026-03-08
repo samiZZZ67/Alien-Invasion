@@ -10,15 +10,9 @@ This project is a desktop game inspired by classic alien shooter games. The play
 
 ## Screenshot
 
-
+![Alien Invasion Gameplay Screenshot](images/allinone.jpg)
 
 `images/allinone.jpg`
-
-
-
-```md
-![Alien Invasion Gameplay Screenshot](images/allinone.jpg)
-```
 
 
 ## Table of Contents
@@ -200,5 +194,4 @@ If you want to open-source it, a common choice is the `MIT` license.
 - Project: `Alien Invasion`
 - Built with: Python and `pygame`
 - Author: Samuel Firegedil, abiyafikre@gmail.com
-
 
