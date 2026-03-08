@@ -12,7 +12,7 @@ This project is a desktop game inspired by classic alien shooter games. The play
 
 
 
-`images/start.jpg`
+`images/allinone.jpg`
 
 
 
